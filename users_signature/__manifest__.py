@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Employee Signature",
+    'name': "Users Signature",
 
     'summary': """
         This module helps users to manage signature for the user.
