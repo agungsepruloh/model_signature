@@ -7,6 +7,6 @@ repos:
           - --addons-dir=.
           - --org-name=agungsepruloh
           - --repo-name=model_signature
-          - --branch=17.0
+          - --branch=16.0
           - --if-source-changed
       - id: oca-gen-addons-table
