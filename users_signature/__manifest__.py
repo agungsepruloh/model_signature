@@ -33,5 +33,8 @@
 
     'images': ['static/description/banner.gif'],
     'application': True,
+    'installable': True,
+    'price': 9.00,
+    'currency': 'USD',
 }
 
